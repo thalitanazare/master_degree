@@ -1,6 +1,7 @@
-# Information
+# Information [![Generic badge](https://img.shields.io/badge/Project-OSF-<COLOR>.svg)](https://github.com/thalitanazare/master_degree/edit/main/README.md)
 
-## Efficiency in computer simulation for identification and control of non-linear systems
+
+## Efficiency in computer simulation for identification and control of non-linear systems 
 
 > Chapter 1 - Introduction
 
