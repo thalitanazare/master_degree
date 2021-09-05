@@ -21,7 +21,7 @@ x0=(mt.sqrt(3)+2)/4 #cond ini controlada
 #x0= 0.4
 x=[x0]
 x1=x
-N=100
+N=200
 
 precis=34
 mp.dps=precis
@@ -44,7 +44,7 @@ plt.plot(x,color='black',linewidth=1.5,marker="x")
 plt.plot(xmp,color='red',linewidth=2.5,alpha=1)
 plt.axvline(x=0, color='black',linestyle="solid")
 plt.axhline(y=-0.15, color='black',linestyle="solid")
-plt.axis([0, 100, -0.15, 1.15])
+plt.axis([0, 200, -0.15, 1.15])
 plt.yticks(fontsize=16)
 plt.xticks(fontsize=16)
 plt.xlabel('N',fontsize=16)
