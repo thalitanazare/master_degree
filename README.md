@@ -1,6 +1,6 @@
-## Information
+# Information
 
-Efficiency in computer simulation for identification and control of non-linear systems
+## Efficiency in computer simulation for identification and control of non-linear systems
 
 > Chapter 1 - Introduction
 
