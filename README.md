@@ -36,6 +36,10 @@
 
 ```ksum.m``` - Summ Kahan
 
+###### Observation:
+
+_To simulate the routines in python it is necessary to simulate them in matlab first, to generate the data that will be used in python._
+
 > Chapter 5 - Analysis of the Stability of Discrete and Continuous Interval Systems
 
 ```det.m ``` - Function to calculate the determinant
