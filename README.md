@@ -28,7 +28,7 @@
 
 ##### Models:
 
-```henon.m;henon.py;henon_media.py``` - Henon map
+```henon.m;henon.py;henon_media.py;condin_henon.txt``` - Henon map
 
 ```mackeyglass.m;mackeyglass.py;mackeyglass_linearregression.py``` - Mackey-Glass Equations
 
