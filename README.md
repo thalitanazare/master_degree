@@ -16,13 +16,36 @@ Efficiency in computer simulation for identification and control of non-linear s
 
 ```nrmse_xvii.m```- NRMSE index calculation for all collected data
 
-```nrmse_xvii_xiv.m``` - Comparison between two different versions of LTspice
+```nrmse_xvii_iv.m``` - Comparison between two different versions of LTspice
 
+```entropy.m;myentropy.m``` Calculation of entropy
 
+##### Data:
 
+```Jerk_1cond.txt;Jerk_2cond.txt;Jerk_3cond.txt;Jerk_4cond.txt;Jerk_circ.txt; Jerk4.txt; Jerk_17.txt```
 
 > Chapter 4 - Effects of Numerical Accuracy in Simulating Chaotic Polynomial Models
 
+##### Models:
 
+```henon.m;henon.py;henon_media.py``` - Henon map
+
+```mackeyglass.m;mackeyglass.py;mackeyglass_linearregression.py``` - Mackey-Glass Equations
+
+```rossler.m;rossler.py;rossler_media.py``` - Rössler Systems
+
+```ksum.m``` - Summ Kahan
 
 > Chapter 5 - Analysis of the Stability of Discrete and Continuous Interval Systems
+
+```det.m ``` - Function to calculate the determinant
+
+```intva_lyap.m ``` - Interval Lyapunov function
+
+```mma_continuo.m ``` - continuous system
+
+```mma_discreto.m ``` - discrete system
+
+> Contact
+
+##### thalitanazare@gmail.com
