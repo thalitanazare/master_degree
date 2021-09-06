@@ -1,7 +1,7 @@
 # Information 
 
 ## Efficiency in computer simulation for identification and control of nonlinear systems [![DOI](https://img.shields.io/badge/Project-OSF-<COLOR>.svg)](https://osf.io/r3aw9/?view_only=cee78dec6f6f4bb7a3a5affd1b865a4b)
-In the OSF project, you will find publications referring to this work and the master's thesis.
+_In the OSF project, you will find publications referring to this work and the master's thesis._
 
 > Chapter 1 - Introduction
 
